@@ -1,4 +1,6 @@
 #-*-   coding :utf-8   -*-
+# ---version 0.1 ---
+
 'test'
 __author__ ='ywbin'
 
